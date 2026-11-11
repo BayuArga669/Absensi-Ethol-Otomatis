@@ -1,0 +1,8 @@
+{
+    "email": "",
+    "password": "",
+    "tahun": 2026,
+    "semester": 1,
+    "check_interval_seconds": 30,
+    "headless": true
+}

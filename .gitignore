@@ -1,0 +1,21 @@
+# Credentials - JANGAN COMMIT!
+config.json
+
+# Logs
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Screenshots (from testing)
+*.png
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
